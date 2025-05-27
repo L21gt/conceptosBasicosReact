@@ -39,6 +39,21 @@
 
 
 .app-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.color-section {
+  margin-bottom: 40px;
+  padding: 20px;
+  border-bottom: 1px solid #eee;
+}
+
+/* -------------------------- */
+
+
+.app-container {
   text-align: center;
   padding: 20px;
 }
