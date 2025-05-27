@@ -7,20 +7,12 @@ Tarea 2 - Conceptos basicos React.js
 
 
 ## Descripción:
-El objetivo de esta tarea es poner en práctica los conceptos fundamentales de React.js para
-construir una aplicación funcional y dinámica. Los estudiantes aplicarán el manejo del estado con
-useState, gestionarán efectos secundarios con useEffect, y trabajarán con eventos del DOM para
-crear una experiencia de usuario reactita. Esta tarea tiene como propósito fortalecer la
-comprensión de cómo React renderiza los componentes, cómo se manejan los datos dentro de
-los mismos, y cómo se actualiza la interfaz en respuesta a interacciones del usuario.
+El objetivo de esta tarea es poner en práctica los conceptos fundamentales de React.js para construir una aplicación funcional y dinámica. Los estudiantes aplicarán el manejo del estado con useState, gestionarán efectos secundarios con useEffect, y trabajarán con eventos del DOM para crear una experiencia de usuario reactita. Esta tarea tiene como propósito fortalecer la comprensión de cómo React renderiza los componentes, cómo se manejan los datos dentro de los mismos, y cómo se actualiza la interfaz en respuesta a interacciones del  usuario.
 
 ## Primera actividad: Cambia el color de la caja
 
 ### Procedimiento:
-1. Dentro de App.jsx realizar un diseño que muestre una caja de color (un div con tamaño
-fijo) y cuatro botones. Al hacer clic en los distintos botones, el color de fondo de la caja
-debe cambiar según el botón presionado. El color se manejará mediante un estado con
-useState.
+1. Dentro de App.jsx realizar un diseño que muestre una caja de color (un div con tamaño fijo) y cuatro botones. Al hacer clic en los distintos botones, el color de fondo de la caja debe cambiar según el botón presionado. El color se manejará mediante un estado con useState.
 2. Mostrar una caja (div) con un tamaño fijo, por ejemplo, 200px x 200px.
 3. Crear tres botones que cambien el color de la caja (Rojo, Azul y Verde).
 4. El color debe cambiar en tiempo real al hacer clic en un botón.
